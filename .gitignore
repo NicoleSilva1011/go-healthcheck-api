@@ -1,0 +1,23 @@
+# Go build artifacts
+/bin/
+/*.exe
+/*.exe~
+/*.dll
+/*.so
+/*.dylib
+/app
+
+# Go test cache
+/test
+*.out
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
